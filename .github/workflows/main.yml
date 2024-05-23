@@ -22,6 +22,4 @@ jobs:
      - name: Step 3 -  Build project
        run: mvn -B package --file pom.xml
 
- 
-
      
